@@ -1,6 +1,7 @@
 # Vehicle Parking Management System
 
-Created By: 
-  Harshal Deshmukh
-  Aryan Bane
-  Milind Chavan
+<b>Created By: <br>
+
+  Harshal Deshmukh <br>
+  Aryan Bane <br>
+  Milind Chavan <br>
